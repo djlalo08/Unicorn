@@ -1,6 +1,6 @@
 # UNIcorn 🦄
 
-UNIcorn is a hardware description language (HDL) focusing on digital logic, with various quality of life improvements compared to many of the most popular HDLs such as generic bus-lengths, for-loops, and register support, a simplified syntax, and -- most importantly -- very encouraging and life-affirming compiler errors!
+UNIcorn is a hardware description language (HDL) focusing on digital logic, with various quality of life improvements compared to many of the most popular HDLs such as generic bus-lengths, for-loops, register support, a simplified syntax, and -- most importantly -- very encouraging and life-affirming compiler errors!
 
 
 ### Learn UNIcorn!
