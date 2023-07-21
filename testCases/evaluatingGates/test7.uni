@@ -1,0 +1,12 @@
+main(){
+
+	bOne = 10101b; 
+	bTwo = 11110b; 
+	
+	bThr = not(bOne xor bTwo); 
+
+	print p: bThr; 	
+	out: bThr<5>; 
+}
+neigh!
+//should print 10100

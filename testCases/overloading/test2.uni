@@ -1,0 +1,9 @@
+main(){
+
+	a = 101b; 
+	a = 111b; //invalid because of overloading
+	print x: a;  
+	out: a<3>; 
+}		
+neigh!	
+//error 

@@ -1,0 +1,10 @@
+main(){
+	a = 1101b; 
+	b = 110000001111b; 
+
+	a:= a *0000b*; //error because bus is already called a -- overloading
+	print asas: a; 
+	out:; 
+}
+neigh!
+//should print 1101

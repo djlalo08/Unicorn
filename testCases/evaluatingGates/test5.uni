@@ -1,0 +1,11 @@
+main(){
+
+	bOne = 101010b; 
+	bTwo = 111110b;
+
+	bThr=not(bOne and bTwo);
+	print e: bThr; 
+	out: bThr<6>; 
+}
+neigh! 
+//should print 010101

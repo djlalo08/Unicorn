@@ -1,0 +1,7 @@
+main(){
+	neigh! = 101010b; 
+	out:;
+
+}
+🦄
+//should give an error because neigh! is a reserved word (EOF)

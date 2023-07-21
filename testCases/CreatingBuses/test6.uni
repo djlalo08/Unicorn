@@ -1,0 +1,8 @@
+main(){
+	busOne = 121222b; 
+	out:; 
+
+
+}
+🦄
+//should give an error because its not 1's and 0's

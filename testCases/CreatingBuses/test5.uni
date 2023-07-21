@@ -1,0 +1,7 @@
+main(){
+	!hellp= 1011b; 
+	out:; 
+
+}
+🦄
+//error because bus name doesn't start with a letter
