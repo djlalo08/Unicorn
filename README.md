@@ -32,6 +32,6 @@ unicodefile.uni. See the LRM for the available flags.
 ### Credits
 
 UNIcorn was made in part as a project for the course Programming Languages And Translators, as taught by Pr. Stephen Edwards.
-The compiler was written by David Lalo
-The testing suite was built by Maryam Aly
-Thanks to Gael, Dan, and Adiza for help with language planning and in building the Language Reference Manual
+The compiler was written by David Lalo.
+The testing suite was built by Maryam Aly.
+Thanks to Gael, Dan, and Adiza for help with building the Language Reference Manual!
